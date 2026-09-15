@@ -3,7 +3,7 @@
 
 ### 🎧 Сейчас в наушниках
 
-<img src="./assets/assets/404f.gif" width="400" />
+<img src="./assets/404f.gif" width="400" />
 
 **♪ Nujabes — Aruarian Dance ♪**
 
